@@ -16,6 +16,11 @@ cover:
 
 ---
 
+### 视频教程🖥️
+{{< bilibili "BV1SW421X7X1" >}}
+
+---
+
 ### 资源下载📥
 - #### 猴子头Suzzane模型，GLB格式
 ![]({{< resource "3d_glow_outline/suzanne.png" >}})

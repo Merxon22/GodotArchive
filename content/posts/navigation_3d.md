@@ -1,7 +1,7 @@
 ---
 title: '十分钟上手3D导航系统'
 summary: "使用Navigation Region和Navigation Agent，让玩家通过点击鼠标控制角色移动"
-tags: ["#GD Script", "#3D", "#导航", "#寻路"]
+tags: ["#GD Script", "#3D", "#寻路"]
 categories: ["开发教程"]
 cover:
     image: navigation_3d/cover.gif
