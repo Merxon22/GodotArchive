@@ -1,7 +1,7 @@
 ---
 title: '点亮一个3D模型'
 summary: "使用Fresnel、深度纹理和HDR效果，让3D模型发起光来"
-tags: ["#描边", "#着色器", "#深度纹理", "#HDR发光", "#3D"]
+tags: ["#描边", "#着色器", "#深度纹理", "#HDR发光", "#3D", "#Visual Shader"]
 categories: ["着色器教程"]
 cover:
     image: 3d_glow_outline/final.gif

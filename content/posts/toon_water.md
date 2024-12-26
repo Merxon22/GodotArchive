@@ -1,7 +1,7 @@
 ---
 title: '卡通风格的水面效果！'
 summary: '用着色器做一个有着泡沫和波纹的卡通水面'
-tags: ['#着色器', '#3D', "#深度纹理", "#噪声纹理"]
+tags: ['#着色器', '#3D', "#深度纹理", "#噪声纹理", "#Visual Shader"]
 categories: ["着色器教程"]
 cover:
     image: "toon_water/cover.gif"
