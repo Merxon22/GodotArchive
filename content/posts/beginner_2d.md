@@ -16,7 +16,7 @@ cover:
 ---
 
 ### 视频教程🖥️
-敬请期待
+{{< bilibili "BV1fuCrYFEoG" >}}
 
 ---
 
