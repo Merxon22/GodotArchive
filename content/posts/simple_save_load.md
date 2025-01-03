@@ -25,7 +25,7 @@ cover:
 
 - #### 项目模板（下载后解压）
 ![项目模板]({{< resource "/simple_save_load/template.png" >}})
-{{< button "下载项目成品" "/simple_save_load/template.zip" >}}
+{{< button "下载项目模板" "/simple_save_load/template.zip" >}}
 
 - #### 项目成品（下载后解压）
 ![项目成品]({{< resource "/simple_save_load/cover.gif" >}})

@@ -26,7 +26,7 @@ cover:
 
 - #### 项目模板（下载后解压）
 ![项目模板]({{< resource "/2d_fog_of_war/template.png" >}})
-{{< button "下载项目成品" "/2d_fog_of_war/template.zip" >}}
+{{< button "下载项目模板" "/2d_fog_of_war/template.zip" >}}
 
 - #### 项目成品（下载后解压）
 ![项目成品]({{< resource "/2d_fog_of_war/final.gif" >}})
