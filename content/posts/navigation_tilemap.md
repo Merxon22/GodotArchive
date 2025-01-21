@@ -1,7 +1,7 @@
 ---
 title: '在2D Tilemap中做一个寻路系统'
 summary: "在Tilemap系统中，使用Godot强大的的AstarGrid2D算法来寻路"
-tags: ["#GD Script", "#2D", "#寻路", "Tilemap", "Astar"]
+tags: ["#GD Script", "#2D", "#寻路", "#Tilemap", "#Astar"]
 categories: ["开发教程"]
 cover:
     image: navigation_tilemap/cover.gif

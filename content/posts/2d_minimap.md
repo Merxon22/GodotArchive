@@ -1,7 +1,7 @@
 ---
 title: '2D游戏中的小地图'
 summary: "使用SubViewport和图层剔除设置，在2D游戏中做出一个俯视视角的小地图"
-tags: ["#GD Script", "#2D", "Viewport"]
+tags: ["#GD Script", "#2D", "#Viewport"]
 categories: ["开发教程"]
 cover:
     image: 2d_minimap/preview.gif
@@ -17,7 +17,7 @@ cover:
 
 ### 视频教程🖥️
 
-敬请期待
+{{< bilibili "BV19HcEeeEyP" >}}
 
 ---
 
