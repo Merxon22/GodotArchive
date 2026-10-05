@@ -31,4 +31,4 @@ cover:
 
     你可以下载每集视频完成后的项目状态（从第1集到第4集都有），并通过用它来debug自己的项目
 ![项目成品]({{< resource "/inventory_system/original.png" >}})
-{{< button "下载第1到第11集完成状态" "/inventory_system/inventory-tutorial-checkpoint1-4.zip" >}}
+{{< button "下载第1到第4集完成状态" "/inventory_system/inventory-tutorial-checkpoint1-4.zip" >}}
