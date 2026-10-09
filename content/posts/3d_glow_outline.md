@@ -5,6 +5,7 @@ tags: ["#描边", "#着色器", "#深度纹理", "#HDR发光", "#3D", "#Visual S
 categories: ["着色器教程"]
 cover:
     image: 3d_glow_outline/final.gif
+date: '2024-10-17'
 ---
 
 ---

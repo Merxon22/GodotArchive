@@ -5,6 +5,7 @@ tags: ['#着色器', '#3D', '#Visual Shader']
 categories: ["着色器教程"]
 cover:
     image: "visual_shader/cover.gif"
+date: '2024-10-17'
 ---
 
 ---

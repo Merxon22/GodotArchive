@@ -5,6 +5,7 @@ tags: ["#SubViewport", "#着色器", "#像素风", "#3D", "#2D"]
 categories: ["着色器教程"]
 cover:
     image: 3d_pixelize/cover.gif
+date: '2024-10-17'
 ---
 
 ---

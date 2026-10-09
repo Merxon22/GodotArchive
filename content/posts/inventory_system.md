@@ -5,6 +5,7 @@ tags: ["#GD Script", "#Resource", "#背包"]
 categories: ["开发教程"]
 cover:
     image: inventory_system/preview.gif
+date: '2026-10-04'
 ---
 
 ---
@@ -16,7 +17,8 @@ cover:
 ---
 
 ### 视频教程🖥️
-敬请期待
+
+{{< bilibili "BV1apHn6eEeZ" >}}
 
 ---
 

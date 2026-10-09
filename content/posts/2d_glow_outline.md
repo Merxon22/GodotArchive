@@ -5,6 +5,7 @@ tags: ["#描边", "#着色器", "#像素风", "#HDR发光", "#2D"]
 categories: ["着色器教程"]
 cover:
     image: 2d_glow_outline/final.gif
+date: '2024-10-17'
 ---
 
 ---

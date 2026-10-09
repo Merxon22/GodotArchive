@@ -5,6 +5,7 @@ tags: ["#2D","#光照"]
 categories: ["开发教程"]
 cover:
     image: 2d_lighting/preview.gif
+date: '2025-01-21'
 ---
 
 ---

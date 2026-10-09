@@ -5,6 +5,7 @@ tags: ['#着色器', '#2D']
 categories: ["着色器教程"]
 cover:
     image: "magnifier/cover.gif"
+date: '2024-10-17'
 ---
 
 ---

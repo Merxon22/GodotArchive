@@ -5,6 +5,7 @@ tags: ["#GD Script", "#2D", "#着色器"]
 categories: ["开发教程"]
 cover:
     image: 2d_fog_of_war/final.gif
+date: '2024-10-17'
 ---
 
 ---

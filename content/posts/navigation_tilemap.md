@@ -5,6 +5,7 @@ tags: ["#GD Script", "#2D", "#寻路", "#Tilemap", "#Astar"]
 categories: ["开发教程"]
 cover:
     image: navigation_tilemap/cover.gif
+date: '2024-10-17'
 ---
 
 ---

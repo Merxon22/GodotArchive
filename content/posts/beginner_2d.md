@@ -5,6 +5,7 @@ tags: ["#GD Script", "#2D", "#入门"]
 categories: ["开发教程"]
 cover:
     image: beginner_2d/cover.gif
+date: '2024-12-25'
 ---
 
 ---

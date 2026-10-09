@@ -5,6 +5,7 @@ tags: ["#GD Script", "#2D", "#存档", "#Resource"]
 categories: ["开发教程"]
 cover:
     image: resource_save_load/cover.gif
+date: '2024-10-17'
 ---
 
 ---

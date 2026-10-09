@@ -5,6 +5,7 @@ tags: ["#GD Script", "#3D", "#入门"]
 categories: ["开发教程"]
 cover:
     image: beginner_3d/cover.gif
+date: '2025-09-02'
 ---
 
 ---

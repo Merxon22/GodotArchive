@@ -5,6 +5,7 @@ tags: ["#GD Script", "#2D", "#Resource", "#UI", "#对话"]
 categories: ["开发教程"]
 cover:
     image: dialogue_system/cover.gif
+date: '2024-10-17'
 ---
 
 ---

@@ -5,6 +5,7 @@ tags: ['#着色器', '#3D', "#深度纹理", "#噪声纹理", "#Visual Shader"]
 categories: ["着色器教程"]
 cover:
     image: "toon_water/cover.gif"
+date: '2024-10-17'
 ---
 
 ---

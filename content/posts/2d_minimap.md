@@ -5,6 +5,7 @@ tags: ["#GD Script", "#2D", "#Viewport"]
 categories: ["开发教程"]
 cover:
     image: 2d_minimap/preview.gif
+date: '2025-01-09'
 ---
 
 ---
